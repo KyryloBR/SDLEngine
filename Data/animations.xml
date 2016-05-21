@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animations>
+	<Type id = "Player">
+	<Animation id = "Walking">
+		<frame value = "../assets/Animations/Abobo/Walk/1.png"/>
+		<frame value = "../assets/Animations/Abobo/Walk/2.png"/>
+		<frame value = "../assets/Animations/Abobo/Walk/3.png"/>
+	</Animation>
+	<Animation id = "Idle">
+		<frame value = "../assets/Animations/Abobo/Walk/1.png"/>
+	</Animation>
+	<Animation id = "Punching">
+		<frame value = "../assets/Animations/Abobo/HandShoot/1.png"/>
+		<frame value = "../assets/Animations/Abobo/HandShoot/2.png"/>
+		<frame value = "../assets/Animations/Abobo/HandShoot/3.png"/>
+		<frame value = "../assets/Animations/Abobo/HandShoot/4.png"/>
+		<frame value = "../assets/Animations/Abobo/HandShoot/5.png"/>
+		<frame value = "../assets/Animations/Abobo/HandShoot/6.png"/>
+		<frame value = "../assets/Animations/Abobo/HandShoot/7.png"/>
+		<frame value = "../assets/Animations/Abobo/HandShoot/8.png"/>
+		<frame value = "../assets/Animations/Abobo/HandShoot/9.png"/>
+		<frame value = "../assets/Animations/Abobo/HandShoot/10.png"/>
+		<frame value = "../assets/Animations/Abobo/HandShoot/11.png"/>
+		<frame value = "../assets/Animations/Abobo/HandShoot/12.png"/>
+		<frame value = "../assets/Animations/Abobo/HandShoot/13.png"/>
+		<frame value = "../assets/Animations/Abobo/HandShoot/14.png"/>
+		<frame value = "../assets/Animations/Abobo/HandShoot/15.png"/>
+	</Animation>
+	<Animation id = "Combos">
+		<frame value = "../assets/Animations/Abobo/FootShooting/1.png"/>
+		<frame value = "../assets/Animations/Abobo/FootShooting/2.png"/>
+	</Animation>
+	</Type>
+	<Type id = "Enemy">
+	<Animation id = "WalkingEnemy">
+		<frame value = "../assets/Animations/Enemy1/Walking/1.gif"/>
+		<frame value = "../assets/Animations/Enemy1/Walking/2.gif"/>
+		<frame value = "../assets/Animations/Enemy1/Walking/3.gif"/>
+		<frame value = "../assets/Animations/Enemy1/Walking/4.gif"/>
+		<frame value = "../assets/Animations/Enemy1/Walking/5.gif"/>
+		<frame value = "../assets/Animations/Enemy1/Walking/6.gif"/>
+		<frame value = "../assets/Animations/Enemy1/Walking/7.gif"/>
+		<frame value = "../assets/Animations/Enemy1/Walking/8.gif"/>
+		<frame value = "../assets/Animations/Enemy1/Walking/9.gif"/>
+	</Animation>
+	</Type>
+	<Type id = "Decoration">
+		<Animation id = "DizzySmoke">
+			<frame value = "../assets/Animations/Decorations/DizzySmoke/1.png"/>
+			<frame value = "../assets/Animations/Decorations/DizzySmoke/2.png"/>
+			<frame value = "../assets/Animations/Decorations/DizzySmoke/3.png"/>
+			<frame value = "../assets/Animations/Decorations/DizzySmoke/4.png"/>
+			<frame value = "../assets/Animations/Decorations/DizzySmoke/5.png"/>
+			<frame value = "../assets/Animations/Decorations/DizzySmoke/6.png"/>
+			<frame value = "../assets/Animations/Decorations/DizzySmoke/7.png"/>
+			<frame value = "../assets/Animations/Decorations/DizzySmoke/8.png"/>
+			</Animation>
+	<Animation id = "NoSmoking">
+			<frame value = "../assets/Animations/Decorations/NoSmoking/1.png"/>
+			<frame value = "../assets/Animations/Decorations/NoSmoking/2.png"/>
+			<frame value = "../assets/Animations/Decorations/NoSmoking/3.png"/>
+			</Animation>
+		<Animation id = "FriendShipCyrax">
+			<frame value = "../assets/Animations/Decorations/FriendShipCyrax/1.png"/>
+			<frame value = "../assets/Animations/Decorations/FriendShipCyrax/2.png"/>
+			<frame value = "../assets/Animations/Decorations/FriendShipCyrax/3.png"/>
+			<frame value = "../assets/Animations/Decorations/FriendShipCyrax/4.png"/>
+			<frame value = "../assets/Animations/Decorations/FriendShipCyrax/5.png"/>
+		</Animation>
+	</Type>
+</Animations>
